@@ -6,3 +6,5 @@ This project enables efficient searching of tweets based on specific hashtags. I
 - **Load Tweets**: Load tweets from a text file.
 - **Remove Duplicates**: Ensure unique tweets using Python's `set` function.
 - **Search by Hashtag**: Filter and search tweets based on specified hashtags.
+
+## Detailed code and report in hashtag_tweet_search_script.ipynb
